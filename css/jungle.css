@@ -1,6 +1,11 @@
 @media screen and (min-width: 480px) {
     body {
-        background-color: black;
+        background-image: url(Pictures/leaves.jpg);
         color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+    body {
+        background-image: url(Pictures/nature.jpg);
     }
 }
